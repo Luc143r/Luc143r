@@ -94,4 +94,4 @@ I graduated six months early thanks to the WorldSkills demo exam in mobile devel
 <div align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="900" height="520"/>
 </div>
-<p>Telegram: www.t.me/insearchofmyself666 <br>Instagram: www.instagram.com/rakova9opuxol/ <br>VK: www.vk.com/stupiddeveloper13</p>
+<p>Telegram: www.t.me/insearchofmyself666 <br>Instagram: www.instagram.com/rakova9opuxol/ <br>VK: https://vk.com/luc143r</p>
