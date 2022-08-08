@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h1> 👨‍🎓 Edication: </h1>
+<h1> 👨‍🎓 Education: </h1>
 
 <h3> 💻 Technician-programmer </h3>
 
