@@ -1,97 +1,24 @@
-<!--
-**Luc143r/Luc143r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yBvv7x5EFY) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakova9opuxol) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikves29012001@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Luc143r&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Luc143r&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luc143r&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="520"/>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Luc143r&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<hr>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h1> ❕ Intro</h1>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Luc143r&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
-<h3>Hi!👋 My name is Nikita.</h3>
-<p>
-    For about 3 years I have been developing in the Python programming language.🐍 <br>I am engaged in non-commercial development as a hobby, development of     chat   bots for Telegram, VK, Discord, development of parsers and layout of landing pages.📜 <br>Trying my hand at website design in Figma.
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Luc143r&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<div>
-  <img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="600" height="320"/>
-</div>
-
-<hr>
-
-<h1> ✅ Languages and tools: </h1>
-
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40"     height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PS" alt="PS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
-
-<h3> 📌 About my stack: </h3>
-
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp; I have been developing in Python for about 3 years as a hobby. In the future, I want to find a job in the field of backend-development on Django.<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="20" height="20"/>&nbsp; I know HTML5 at an intermediate level.<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="20" height="20"/>&nbsp; Still learning CSS3 to improve my layout skills. Settled on preprocessors.<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="20"     height="20"/>&nbsp; I know JavaScript at an intermediate level. I use it both in layout and tried to write chat bots on Node.js<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="20" height="20"/>&nbsp; I know SQL syntax well. Worked with such DBMS as: SQLite, MySQL, PostgreSQL, Firebird.<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PS" alt="PS" width="20" height="20"/>&nbsp; I know how to work in Photoshop. Made layouts, edited photos and created logos.<br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="20" height="20"/>&nbsp; I master Figma to create layouts and further work with them for my own convenience.<br>
-  🇺🇸  I know English at level A2. I improve my language skills every day.
-</p>
-
-<hr>
-
-<h1> 👨‍🎓 Education: </h1>
-
-<h3> 💻 Technician-programmer </h3>
-
-<p>
-  I have a secondary vocational education - a technician-programmer. He studied at the multidisciplinary college at PSU in the city of Penza.<br>Graduated in 2021 with good grades.
-I graduated six months early thanks to the WorldSkills demo exam in mobile development, after which I defended my thesis.
-<br>In addition to specialized education, he received two additional qualifications:
-<br>- Computer's operator
-<br>- Development of mobile applications
-</p>
-
-<hr>
-
-<h1> 🪖 Attitude towards military service</h1>
-
-<p>
-  Conscription military service was held in 2021-2022 in the Far East in the city of Belogorsk.<br>I have established myself as a conscientious soldier, earned the trust of colleagues and commanders.<br>I received a good reference from the place of service and an extraordinary military rank - junior sergeant. Participated in the May 9 parade.🎖️
-</p>
-
-<hr>
-
-<h1> 🎴 Future plans: </h1>
-
-<p>
-  At the moment I am learning the Django framework, doing layout, improving my knowledge of the English language.<br>In the future, I plan to find a job in the field of backend development on Django, to be in demand and a successful IT specialist.
-</p>
-
-<hr>
-
-<h1 align="center">That's all! 😉 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="900" height="520"/>
-</div>
-<p>Telegram: www.t.me/insearchofmyself666 <br>Instagram: www.instagram.com/rakova9opuxol/ <br>VK: https://vk.com/luc143r</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
